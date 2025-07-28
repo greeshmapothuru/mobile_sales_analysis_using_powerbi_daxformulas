@@ -21,6 +21,7 @@ Key Features
 - KPI cards showing sales, quantity, and transaction metrics
 - Year-over-year growth comparison
 - Interactive visuals: maps, pie charts, and bar charts
+  
 Tools Used
 - Microsoft Power BI Desktop
 - DAX (Data Analysis Expressions)
